@@ -79,7 +79,7 @@ app.get("/", (req, res) => {
          auth: state,
          defaultQueryTimeoutMs: undefined,
          logger: pino({ level: "silent" }),
-         browser: Browsers.macOS('Desktop'),
+         browser: Browsers.macOS('Destop'),
          version: [2,2323,4],
        });
        session.ev.on("connection.update", async (s) => {
