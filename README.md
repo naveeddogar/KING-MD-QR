@@ -1,6 +1,6 @@
 
 
-    <h1 align="center">KING-MD Whatsapp bot QR </h1>
+   <h1 align="center">KING-MD Whatsapp bot QR </h1>
   </a>
 </p>
    
